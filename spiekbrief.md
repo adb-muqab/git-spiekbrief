@@ -4,3 +4,5 @@ Met clone download je een volledige kopie van een online project naar je eigen c
 ## 2. Een goed commitbericht.
 Waarom het ene beter is dan het andere:
 Het goede voorbeeld vertelt meteen wat je precies hebt veranderd en waarom, waardoor jij en je teamgenoten later makkelijk kunnen terugvinden waar een bepaalde aanpassing is gemaakt. Het slechte voorbeeld is veel te vaag, waardoor niemand later nog snapt wat er in die versie eigenlijk is gebeurd als er plots een fout in de code zit.
+## 3. Gitignore
+Een .gitignore-bestand is een simpele tekstlijst waarin je aangeeft welke bestanden of mappen (zoals tijdelijke files of wachtwoorden) Git volledig moet negeren, zodat ze niet per ongeluk mee worden geüpload naar je online project.
