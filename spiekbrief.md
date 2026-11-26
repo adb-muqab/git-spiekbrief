@@ -10,3 +10,7 @@ Een .gitignore-bestand is een simpele tekstlijst waarin je aangeeft welke bestan
 Er zijn net nieuwe wijzigingen (van je docent of groepsgenoten) online gezet, waardoor de versie op je eigen computer niet meer gelijkloopt met de meest recente versie op het platform. Daarom moet je aan het begin van elke les altijd eerst pullen om die laatste updates binnen te halen, zodat je direct in de nieuwste code werkt en vervelende foutmeldingen (merge conflicts) voorkomt
 ## 5. Terugdraaien
 Een foute commit verdwijnt niet uit de geschiedenis van Git omdat Git is ontworpen om een betrouwbaar en volledig overzicht te behouden van alle wijzigingen die ooit zijn gedaan. Als je een commit terugdraait met een revert, wist Git de oude fout niet, maar voegt het juist een nieuwe commit toe die de wijziging ongedaan maakt. Zo blijft de volledige tijdlijn netjes bewaard en kun je altijd achterhalen wat er is misgegaan en hoe dat is opgelost.
+## 6. Branches en pull
+Wat is een branch: Een branch is een afgesplitste tak van je project waarin je veilig aan nieuwe dingen kunt werken zonder dat je de hoofdcode kapotmaakt.
+Waarom main de werkende versie blijft: De main-branch bevat altijd de stabiele en geteste versie van je werk, zodat je zeker weet dat de basis altijd blijft functioneren.
+Wat is een pull request: Een pull request is een verzoek om jouw gewijzigde branch te controleren en samen te voegen met de main-branch.
