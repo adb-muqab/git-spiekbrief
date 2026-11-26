@@ -1,4 +1,4 @@
-# Spiekbrief Git en GitHub
+# Spiekbrief Git en GitHub, versie van mijn laptop
 ## 1. Clone, commit, push en pull
 Met clone download je een volledige kopie van een online project naar je eigen computer zodat je eraan kunt werken. Als je zelf iets hebt aangepast in je code, sla je die updates met commit op als een soort vast savepoint op je eigen laptop. Met push stuur je die opgeslagen updates van jouw computer naar het online platform (zoals GitHub) zodat de rest van je team ze ook ziet. Omgekeerd haal je met pull de nieuwste aanpassingen van anderen van het online platform naar jouw eigen computer, zodat jouw versie weer helemaal up-to-date is.
 ## 2. Een goed commitbericht.
