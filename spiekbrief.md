@@ -14,3 +14,5 @@ Een foute commit verdwijnt niet uit de geschiedenis van Git omdat Git is ontworp
 Wat is een branch: Een branch is een afgesplitste tak van je project waarin je veilig aan nieuwe dingen kunt werken zonder dat je de hoofdcode kapotmaakt.
 Waarom main de werkende versie blijft: De main-branch bevat altijd de stabiele en geteste versie van je werk, zodat je zeker weet dat de basis altijd blijft functioneren.
 Wat is een pull request: Een pull request is een verzoek om jouw gewijzigde branch te controleren en samen te voegen met de main-branch.
+## 7. Mijn conflict 
+De hoofdtitel van het document botste doordat ik deze zowel online op de website als lokaal op mijn laptop op een andere manier had aangepast. Ik heb ervoor gekozen om de titel van de website te behouden. Hierdoor kon ik het merge conflict oplossen en de wijzigingen netjes samenvoegen in een nieuwe commit.
